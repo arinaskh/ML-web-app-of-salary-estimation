@@ -90,4 +90,4 @@ Deploy the app to the cloud (Streamlit Cloud or Heroku).
 
 Implement continuous data updates.
 
-Created by Arina Sadeghi khiabanian
+Created by Arina Sadeghi Khiabanian
