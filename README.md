@@ -57,7 +57,7 @@ Make sure you have Python installed.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/salary-prediction-app.git](https://github.com/your-username/salary-prediction-app.git)
+git clone (https://github.com/arinaskh/ML-web-app-of-salary-estimation)
 cd salary-prediction-app
 ```
 
